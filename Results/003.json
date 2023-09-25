@@ -1,0 +1,130 @@
+[
+    {
+        "Food": "THỊT GIÒN MÌ CAY ẾCH",
+        "Price": "13000"
+    },
+    {
+        "Food": "XÚC XÍCH ĐỨC NƯỚNG",
+        "Price": "10000"
+    },
+    {
+        "Food": "ĐẬU BẮP NƯỚNG",
+        "Price": "25000"
+    },
+    {
+        "Food": "CÀ TÍM NƯỚNG",
+        "Price": "25000"
+    },
+    {
+        "Food": "CÁ BÒ TÔM VIÊN NƯỚNG",
+        "Price": "25000"
+    },
+    {
+        "Food": "BÁNH BAO NƯỚNG",
+        "Price": "35000"
+    },
+    {
+        "Food": "LÒNG HEO NƯỚNG",
+        "Price": "35000"
+    },
+    {
+        "Food": "MỀ GÀ NƯỚNG",
+        "Price": "35000"
+    },
+    {
+        "Food": "MỰC NƯỚNG",
+        "Price": "35000"
+    },
+    {
+        "Food": "TÔM NƯỚNG",
+        "Price": "35000"
+    },
+    {
+        "Food": "BẠCH TUỘC NƯỚNG",
+        "Price": "35000"
+    },
+    {
+        "Food": "SƯỜN NƯỚNG BBQ",
+        "Price": "35000"
+    },
+    {
+        "Food": "BA CHỈ HEO NƯỚNG",
+        "Price": "35000"
+    },
+    {
+        "Food": "ẾCH NƯỚNG",
+        "Price": "35000"
+    },
+    {
+        "Food": "BA CHỈ BÒ MỸ NƯỚNG",
+        "Price": "35000"
+    },
+    {
+        "Food": "BA CHỈ BÒ CUỘN NẤM",
+        "Price": "40000"
+    },
+    {
+        "Food": "BA CHỈ BÒ CUỘN PHÔ MAI",
+        "Price": "40000"
+    },
+    {
+        "Food": "BÒ NƯỚNG SA TẾ",
+        "Price": "40000"
+    },
+    {
+        "Food": "BÒ NƯỚNG CÁ LỐT",
+        "Price": "40000"
+    },
+    {
+        "Food": "BẸ SỮA NƯỚNG",
+        "Price": "45000"
+    },
+    {
+        "Food": "HÀU MAI",
+        "Price": "12000"
+    },
+    {
+        "Food": "HÀU NƯỚNG MỠ HÀNH",
+        "Price": "55000"
+    },
+    {
+        "Food": "XÌA NƯỚNG",
+        "Price": "55000"
+    },
+    {
+        "Food": "SÒ ĐIỆP NƯỚNG",
+        "Price": "55000"
+    },
+    {
+        "Food": "ỐC BƯƠU NƯỚNG TIÊU XANH",
+        "Price": "59000"
+    },
+    {
+        "Food": "BA CHỈ NƯỚNG",
+        "Price": "65000"
+    },
+    {
+        "Food": "BẸ SỮA NƯỚNG",
+        "Price": "69000"
+    },
+    {
+        "Food": "TÔM NƯỚNG",
+        "Price": "69000"
+    },
+    {
+        "Food": "BẠCH TUỘC NƯỚNG",
+        "Price": "69000"
+    },
+    {
+        "Food": "BÒ NƯỚNG CAY",
+        "Price": "69000"
+    },
+    {
+        "Food": "BÒ NƯỚNG CÁ SỐT",
+        "Price": "69000"
+    },
+    {
+        "Food": "BÒ CUỘN NẤM KIM CHÂM",
+        "Price": "79000"
+    }
+]

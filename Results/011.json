@@ -1,0 +1,54 @@
+[
+    {
+        "Food": "CA BÒ DA NƯỚNG",
+        "Price": "290000"
+    },
+    {
+        "Food": "CA CHUA HẤP LÁ GIANG BÁNH TRỨNG",
+        "Price": "220000"
+    },
+    {
+        "Food": "CA CƠM Ô NÓNG CHIÊN MẮM",
+        "Price": "75000"
+    },
+    {
+        "Food": "CÁ RÔ BÍ CHIÊN GIÒN",
+        "Price": "80000"
+    },
+    {
+        "Food": "CA SẢN NƯỚNG",
+        "Price": "290000"
+    },
+    {
+        "Food": "LON NƯỚNG NÓNG TRE",
+        "Price": "95000"
+    },
+    {
+        "Food": "LON UM",
+        "Price": "100000"
+    },
+    {
+        "Food": "LON XÀO LAN",
+        "Price": "100000"
+    },
+    {
+        "Food": " D",
+        "Price": "95000"
+    },
+    {
+        "Food": "LON XÀO MIẾN",
+        "Price": "105000"
+    },
+    {
+        "Food": "LON XÀO XẢ ỚT",
+        "Price": "95000"
+    },
+    {
+        "Food": "MIẾN XÀO LON",
+        "Price": "120000"
+    },
+    {
+        "Food": "CHANH BIỂN NƯỚNG",
+        "Price": "380000"
+    }
+]

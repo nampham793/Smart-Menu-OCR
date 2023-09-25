@@ -1,0 +1,110 @@
+[
+    {
+        "Food": "CHẢO BÒ CAM",
+        "Price": "70000"
+    },
+    {
+        "Food": "CHAO CA BẮP",
+        "Price": "135000"
+    },
+    {
+        "Food": "CHAO CÁ LÓC",
+        "Price": "125000"
+    },
+    {
+        "Food": "CHAO GÀ",
+        "Price": "270000"
+    },
+    {
+        "Food": "CHẢO LON",
+        "Price": "95000"
+    },
+    {
+        "Food": "CHẢO HẢI SẢN",
+        "Price": "80000"
+    },
+    {
+        "Food": "CHAO RAU",
+        "Price": "80000"
+    },
+    {
+        "Food": "CHÁO THẬP CẢM",
+        "Price": "80000"
+    },
+    {
+        "Food": "CHAO TÔM",
+        "Price": "80000"
+    },
+    {
+        "Food": "CHÁO TRÁNG CÁ CƠM KHO",
+        "Price": "80000"
+    },
+    {
+        "Food": "CƠM CHIÊN CA SẢN",
+        "Price": "80000"
+    },
+    {
+        "Food": "CƠM CHIÊN RONG CHÁU",
+        "Price": "80000"
+    },
+    {
+        "Food": "CƠM CHIÊN HẢI SẢN",
+        "Price": "80000"
+    },
+    {
+        "Food": "CƠM CHIÊN THÁI CẢM",
+        "Price": "80000"
+    },
+    {
+        "Food": "CƠM CHIÊN TÔM",
+        "Price": "80000"
+    },
+    {
+        "Food": "CƠM CHIÊN TRỨNG",
+        "Price": "55000"
+    },
+    {
+        "Food": "CƠM CHIÊN MUỐI ĐÁ",
+        "Price": "55000"
+    },
+    {
+        "Food": "CƠM CHIÊN TỎI",
+        "Price": "55000"
+    },
+    {
+        "Food": "BÚN SONG THẢO XÀO HẢI SẢN",
+        "Price": "160000"
+    },
+    {
+        "Food": "BÚN SONG THAN XÀO LONG GÀ",
+        "Price": "120000"
+    },
+    {
+        "Food": "BÚN SONG THAN XÀO NẤM THỊT BÒ",
+        "Price": "160000"
+    },
+    {
+        "Food": "MI XÀO BÊ",
+        "Price": "80000"
+    },
+    {
+        "Food": "MI XÀO BÓ",
+        "Price": "80000"
+    },
+    {
+        "Food": "MÌ XÀO MAI",
+        "Price": "55000"
+    },
+    {
+        "Food": "MÌ XÀO HẢI SẢN",
+        "Price": "85000"
+    },
+    {
+        "Food": "MÌ XÀO THÁI CẢM",
+        "Price": "85000"
+    },
+    {
+        "Food": "MÌ XÀO TÔM",
+        "Price": "85000"
+    }
+]
